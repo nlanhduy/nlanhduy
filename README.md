@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Nguyễn Lâm Anh Duy from <strong>Viet Nam</strong></h1>
+<h1>Hi there 👋, I'm Nguyễn Lâm Anh Duy from <strong>Viet Nam</strong></h1>
 
-<p align="center">
+<p>
 🎓 Information Technology student at <strong>University of Science</strong> <br/>
 💻 Aspiring Software Engineer | Passionate about clean code & problem-solving <br/>
 🌱 Currently learning DevOps, Android Development, and Fullstack Web Development <br/>
