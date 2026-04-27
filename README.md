@@ -80,13 +80,4 @@
 
 ---
 
-<h3 align="left">🔥 My Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nlanhduy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nlanhduy&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlanhduy&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="top languages" />
-</div>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
