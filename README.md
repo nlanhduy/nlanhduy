@@ -79,5 +79,3 @@
 | 📚 [**Book Wise**](https://github.com/anhhuy007/book-wise) | Book discovery platform with social features, auth, and personalized recommendations | Next.js, NextAuth.js, Neon PostgreSQL, Tailwind |
 
 ---
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
